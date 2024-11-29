@@ -44,15 +44,23 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- Fluid typography
+- Fluid typography and spacing
 - Accessibility
 - CUBE CSS
 
 ### What I learned
 
-Hmm 🤔 ...
+I did this challenge as part of Frontend Mentor's learning path on ["Advanced CSS Techniques"](https://www.frontendmentor.io/learning-paths/advanced-css-techniques-vdOtKjIC4V). The [previous lesson](https://www.frontendmentor.io/learning-paths/advanced-css-techniques-vdOtKjIC4V/steps/6747d0a9d54b5cb1dee3f393/article/read) was about utilizing CSS methodologies and architectures to develop cleaner, more modular, and more maintainable code. So I chose to do this challenge using [CUBE CSS](https://cube.fyi/), which stands for: Composition Utility Block Exception Cascading Style Sheets. In the past, I had relied much more on the [BEM methodology](https://getbem.com/), but I have been utilizing Andy Bell's thinking in my [layouts](https://every-layout.dev/) and [general thinking about CSS](https://youtu.be/5uhIiI9Ld5M?si=TQZ4hIFsR29yVADz), and so felt it was a great opportunity to fully try on CUBE CSS in a relatively easy challenge.
+
+Overall, I thought it was a great experience, and plan to keep using it and learning more about it and how to implement it well.
+
+- [CUBE CSS](https://cube.fyi/) - the authoritative source.
+- [Build a dashboard with CUBE CSS](https://piccalil.li/blog/build-a-dashboard-with-cube-css/) - This is a great resource, as Andy Bell himself walks through applying CUBE CSS to building a simple dashboard.
+- [A look at the CUBE CSS methodology in action](https://youtu.be/NanhQvnvbR8?si=ZWVagIwuQARzseYT) - I relied a lot on this vide. Kevin Powell always does a great job walking through stuff, and this video was no exception.
+- [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+- [Every Layout](https://every-layout.dev/)
+- []()
 
 ### Continued development
 
