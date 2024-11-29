@@ -60,7 +60,7 @@ Overall, I thought it was a great experience, and plan to keep using it and lear
 - [A look at the CUBE CSS methodology in action](https://youtu.be/NanhQvnvbR8?si=ZWVagIwuQARzseYT) - I relied a lot on this vide. Kevin Powell always does a great job walking through stuff, and this video was no exception.
 - [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 - [Every Layout](https://every-layout.dev/)
-- []()
+- [CSS Popover + Anchor Positioning is Magical](https://youtu.be/DNXEORSk4GU?si=-Dy4b6U1794WVhlO) - I used this to implement the transition of the image hover.
 
 ### Continued development
 
