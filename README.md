@@ -74,6 +74,7 @@ Hmm 🤔 ...
 
 ### Useful resources
 
+- [Kevin Powell on YouTube](https://www.youtube.com/@KevinPowell) - He's the best.
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
 - [MDN Web Docs for CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Went here a lot to reference the different CSS properties and the shorthands, and all the great explanations about best practices.
 - [The Clamp Calculator](https://royalfig.github.io/fluid-typography-calculator/) - Used for all of fluid typography and fluid spacing calculations.
