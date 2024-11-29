@@ -66,6 +66,8 @@ Overall, I thought it was a great experience, and plan to keep using it and lear
 
 Specific areas that the solution should be improved (known issues):
 
+- I'm not sure that I have the flow spacing perfectly set up. There might be some differentation between the block spacing between different elements within the card and the spacing could possibly change from the mobile to the desktop version. But I don't understand an easy way to get those spacing values out of Figma (without doing a whole bunch of annoying manual calculations), and I felt like this first approximation looks pretty good. If I have time, I will go back and make those adjustments.
+
 More general ideas I want to consider:
 
 Hmm 🤔 ...
