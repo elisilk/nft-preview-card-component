@@ -26,13 +26,11 @@ Users should be able to:
 
 ### Screenshot
 
-|               Mobile designed at 375px:                | Desktop designed at 1440px:                             |
-| :----------------------------------------------------: | ------------------------------------------------------- |
-| ![](./screenshots/screenshot-mobile-new-game-menu.png) | ![](./screenshots/screenshot-desktop-new-game-menu.png) |
-|                  Mobile (Game Solo):                   | Desktop (Game Solo):                                    |
-|   ![](./screenshots/screenshot-mobile-game-solo.png)   | ![](./screenshots/screenshot-desktop-game-solo.png)     |
-|                   Mobile (You Won):                    | Desktop (You Won):                                      |
-|    ![](./screenshots/screenshot-mobile-you-won.png)    | ![](./screenshots/screenshot-desktop-you-won.png)       |
+|               Mobile designed at 375px:               | Desktop designed at 1440px:                            |
+| :---------------------------------------------------: | ------------------------------------------------------ |
+|       ![](./screenshots/screenshot-mobile.png)        | ![](./screenshots/screenshot-desktop.png)              |
+|                Mobile (hover states):                 | Desktop (hover states):                                |
+| ![](./screenshots/screenshot-mobile-hover-states.png) | ![](./screenshots/screenshot-desktop-hover-states.png) |
 
 ### Links
 
